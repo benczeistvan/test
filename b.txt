@@ -1,3 +1,7 @@
 abc
 def
+<<<<<<< HEAD
 modified on master
+=======
+modified on branch
+>>>>>>> branch1
